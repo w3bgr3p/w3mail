@@ -1,0 +1,8 @@
+# Введите ваш токен от BotFather
+TOKEN = 'TELEGRAM_TOKEN'
+
+# ID супергруппы, которую нужно сканировать
+SCAN_CHANNEL_ID = '-100xxxxxxxxxx'  # Замените на ID вашей супергруппы
+
+# ID супергруппы или группы для уведомлений
+NOTIFICATION_CHAT_ID = '-100xxxxxxxxxx'  # Замените на ID вашей супергруппы для уведомлений
